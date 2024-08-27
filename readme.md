@@ -33,6 +33,8 @@ The manual for this jeep can be downloaded [here](<llibret complert6.pdf>).
 
 2024-August
 
+![Broken belt](<Broken Belt.png>)
+
 The Jeep stopped working. One of the two small belts had broken and jammed in place. The motor was tested and working, as was the coin controller.
 
 The triac board has been replaced with a [solid-state relay](https://www.sparkfun.com/products/13015) which is nearly identical, just with modern parts and larger heatsinking.
@@ -42,5 +44,3 @@ The two large drive belts were replaced (preventative maintenance). A bearing pu
 ![Broken wire harness](<2024-08-26 11.03.34.jpg>)
 
 The connecting cable between the coin controller to the transformer (and motor solid-state relay) was found to be damaged causing the motor not to start. One wire out of 8 is a no-connect. Ran a new cable from the coin controller to the SSR. Jeep is running again on one small belt.
-
-
