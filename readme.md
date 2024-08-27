@@ -25,6 +25,10 @@ The drive mechanism is made up of two large belts and two small belts:
 
 The manual for this jeep can be downloaded [here](<llibret complert6.pdf>). 
 
+![Coin counter](<12V Mechanical Counter.png>)
+
+122,982 rides, although I suspect the counter may have rolled over 1 million rides at some point in its 30+ year career.
+
 ---------------
 
 2024-August
